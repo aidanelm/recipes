@@ -1,9 +1,9 @@
 # Banana Peanut Butter Smoothie Recipe  
 
 ## Ingredients  
-- 1 large ripe banana  
-- 1 1/2 tablespoons peanut butter  
-- 3/4 cup milk  
+- 2 ripe bananas
+- 2 tablespoons peanut butter  
+- 1 cup milk  
 - 1/2 cup ice  
 
 ## Equipment  
